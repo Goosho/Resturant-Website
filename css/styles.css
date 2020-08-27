@@ -39,3 +39,5 @@ body{
 .navbar-dark{
 	background-color: #512DAA;
 }
+
+html { scroll-behavior: smooth; } 
