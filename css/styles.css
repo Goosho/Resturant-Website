@@ -67,4 +67,18 @@ body{
 	position: absolute;
 	bottom: 0px;
 }
+
+.modal-header{
+	background-color: #512DAA; 
+}
+
+
+.modal-body{
+	background-color: #D1C4E9;
+
+
+}
+
+
+
 html { scroll-behavior: smooth; } 
